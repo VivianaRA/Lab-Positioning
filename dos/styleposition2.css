@@ -1,0 +1,23 @@
+.position1 {
+	width:200px;
+	height:200px;
+	background:#ee3e64;
+	position:relative;
+}
+.position2 {
+	width:200px;
+	height:200px;
+	background:#44accf;
+	position:relative;
+}
+.position3 {
+	width:200px;
+	height:200px;
+	background:#b7d84b;
+	position:relative;
+}
+body {
+margin:0;
+padding:0;
+}
+
