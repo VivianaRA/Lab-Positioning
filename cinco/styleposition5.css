@@ -1,0 +1,40 @@
+.position1 {
+	width:200px;
+	height:200px;
+	background:#ee3e64;
+	position:absolute;
+	left:0;
+	top:0;
+}
+.position2 {
+	width:200px;
+	height:200px;
+	background:#44accf;
+	position:absolute;
+	right:0;
+	top:0;
+	
+}
+.position3 {
+	width:200px;
+	height:200px;
+	background:#b7d84b;
+	position:absolute;
+	left:0;
+	bottom:0;
+}
+
+.position4 {
+	width:200px;
+	height:200px;
+	background:#FFFF00;
+	position:absolute;
+	right:0;
+	bottom:0;
+}
+
+body {
+margin:0;
+padding:0;
+}
+
